@@ -14,8 +14,8 @@ For development, you will only need Node.js and a node global package installed 
 ---
 ## Project Installation
 ```
-$ git clone https://github.com/Akshat-Austin-au8/Sports-nation.git
-$ cd Sports-nation
+$ git clone https://github.com/Akshat-Austin-au8/Treelo-clone.git
+$ cd Treelo-clone
 ```
 **Run npm install**
 ```
@@ -36,6 +36,7 @@ $ npm i
 - ##### `redux-devtools-extension` - it is used for debugging application's state changes in browser - [redux-devtools-extension](https://www.npmjs.com/package/redux-devtools-extension).
 - ##### `styled-components` - it is used for styling the components - [styled-components](https://github.com/styled-components/styled-components).
 - ##### `react-router-dom` - it is used for routing - [react-router-dom](https://www.npmjs.com/package/react-router-dom).
-- ##### `react-autosuggest` - it is used for auto suggest dropdown - [react-autosuggest](https://www.npmjs.com/package/react-autosuggest).
+- ##### `redux-persist` - Basic usage involves adding persistReducer and persistStore to your setup - [redux-persist](https://www.npmjs.com/package/redux-persist).
+- ##### `react-textarea-autosize` - Drop-in replacement for the textarea component which automatically resizes textarea as content changes - [react-textarea-autosize](https://www.npmjs.com/package/react-textarea-autosize).
 ---
 
