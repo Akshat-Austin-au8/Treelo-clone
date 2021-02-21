@@ -31,7 +31,6 @@ $ npm i
 
 ## FrontEnd NPM Packages Used -
 - ##### `React` - For the full frontend we used react with CRA. Check it out here [React](https://www.npmjs.com/package/react).
-- ##### `axios` - Promise based HTTP client for the browser. For more details check here - [axios](https://www.npmjs.com/package/axios).
 - ##### `redux-thunk` - Middleware for redux. For more details - [redux-thunk](https://www.npmjs.com/package/redux-thunk).
 - ##### `redux-devtools-extension` - it is used for debugging application's state changes in browser - [redux-devtools-extension](https://www.npmjs.com/package/redux-devtools-extension).
 - ##### `styled-components` - it is used for styling the components - [styled-components](https://github.com/styled-components/styled-components).
